@@ -1,20 +1,13 @@
-<p <h1 align="center"><a href="https://ankitgupta.bio.link"><img width="80%" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/github-header-image.png" /></h1></a></p>
+<p <h1 align="center"><img width="80%" src="https://github.com/roopadm/About-me/blob/main/data-inspect.gif" /></h1></a></p>
 <h1 align="center"> </h1>
 
-<h3 align="center">A self-taught Data Science Enthusiast from India </h3>
-<h3 align="center"> Data Analyst at Kapitus</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Roopa</h1>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
-
-<p align="left"> <a href="https://twitter.com/MrAnkitGupta_" target="blank"><img src="https://img.shields.io/twitter/follow/MrAnkitGupta_?logo=twitter&style=for-the-badge" alt="MrAnkitGupta_" /></a> </p>
 
 <!-- <a href="mailto: " target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=" " height="20" width="85" /></a> -->
 
-<a href="https://www.linkedin.com/in/mrankitgupta" target="blank"><img align="center" src="https://img.shields.io/badge/-MrAnkitGupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mrankitgupta/" alt="MrAnkitGupta" height="20" width="100" /></a>
-<a href="https://www.instagram.com/MrAnkitGupta_/" target="blank"><img align="center" src="https://img.shields.io/badge/-@MrAnkitGupta_-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/MrAnkitGupta_/" alt="MrAnkitGupta_" height="20" width="110" /></a>
-<a href="https://bio.link/AnkitGupta" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://bio.link/AnkitGupta" alt="https://bio.link/AnkitGupta" height="20" width="90" /></a>
-<a href="https://github.com/mrankitgupta/" target="blank"><img align="center" src="https://img.shields.io/github/followers/mrankitgupta?label=Follow&style=social&link=https://github.com/mrankitgupta/" alt="MrAnkitGupta" height="20" width="90" /></a>
+<a href="https://www.linkedin.com/in/roopa-d/" target="blank"><img align="center" src="https://github.com/roopadm/About-me/blob/main/600px-LinkedIn_logo_initials.png" alt="D.Roopa" height="20" width="20" /></a>
+<a href="https://roopadm.github.io/DRoopa.github.io/" target="blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&link=https://bio.link/AnkitGupta" alt="https://roopadm.github.io/DRoopa.github.io/" height="20" width="90" /></a>
 
 <!--
 Banner code
@@ -25,25 +18,21 @@ OR
  </abc>
  -->
 
-### Liked my Contributions:question:[Follow Me](https://github.com/mrankitgupta/):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
+### Liked my Contributions:question:[Follow Me](https://github.com/roopadm):point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 
-- 👨‍💻 All about me is at [My Website](https://bio.link/AnkitGupta)
 
-- 🔭 I’m currently working on Data Analytics, Python, Machine Learning & Statistics
 
-- 🛩️ Exploring Data Science, NLP, Deep Learning & Artificial Intelligence 
+- 🔭 I’m currently working on SQL, Python, Tableau & Statistics
+
+- 🛩️ Exploring Python data visualization libraries
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@mrankitgupta)
 
-- 🏆 Finalist of "Startup India Innovation Challenge 2018"
+- 💬 Ask me about ``` var topics = [ "Python", "SQL", "Statistics", "Tableau", "R" ] ```
 
-- 💬 Ask me about ``` var topics = [ "Python", "SQL", "Statistics", "Tableau", "Data Analytics" ] ```
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roopa-d/) 
 
-- 📄 Know about my work & experiences [My Resume](https://www.linkedin.com/in/MrAnkitGupta)
-
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/MrAnkitGupta) / [Twitter](https://twitter.com/MrAnkitGupta_) / [Instagram](www.instagram.com/MrAnkitGupta_)
-
-- ⚡ Fun fact: :hearts: Photography :camera:  Traveling :earth_asia:  Basketball :basketball:
+- ⚡ Fun fact: :hearts: Enjoy writing comphrehensive explanations for projects :earth_asia: Traveling  🚴 cycling
 
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
