@@ -36,9 +36,11 @@ OR
 
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
-<code>[Data-Driven Marketing Strategies for Rider Conversion : Rider Usage Analysis with R and Tableau](https://github.com/roopadm/Rider-Usage-analysis-R-Tableau)</code> 👨‍💻 
+<code>[An Analysis of Developer Communities: Insights from the Stack Overflow global Survey](https://github.com/roopadm/AnalyzingDevSurvey-Data-analysis-using-Python)</code> :hourglass: 
 
-<code>[An Analysis of Developer Communities: Insights from the 2022 Stack Overflow global Survey](https://github.com/roopadm/AnalyzingDevSurvey-Data-analysis-using-Python)</code> :hourglass: 
+<code>[Web scraping all courses on Harvard University Site for different difficulty levels using Python](https://github.com/roopadm/WebScraping-in-Python/edit/main/README.md)</code> 📊
+
+<code>[Data-Driven Marketing Strategies for Rider Conversion : Rider Usage Analysis with R and Tableau](https://github.com/roopadm/Rider-Usage-analysis-R-Tableau)</code> 👨‍💻 
 
 <code>[A Deep Dive into Indian Hardware Company's Sales Performance: Profit and Revenue Analysis with SQL and Tableau](https://github.com/roopadm/Sales-Performance-Analysis-using-SQL-and-Tableau-AtiQ/edit/main/README.md)</code> 📊
 
