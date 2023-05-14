@@ -36,7 +36,7 @@ OR
 
 <h3 align="left">What are my featured projects:question: 👨‍💻 🛰️</h3>
 
-<code>[An Analysis of Developer Communities: Insights from the Stack Overflow global Survey](https://github.com/roopadm/AnalyzingDevSurvey-Data-analysis-using-Python)</code> :hourglass: 
+<code>[An Analysis of Developer Communities (EDA): Insights from the Stack Overflow global Survey](https://github.com/roopadm/AnalyzingDevSurvey-Data-analysis-using-Python)</code> :hourglass: 
 
 <code>[Web scraping all courses on Harvard University Site for different difficulty levels using Python](https://github.com/roopadm/WebScraping-in-Python/edit/main/README.md)</code> 📊
 
