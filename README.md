@@ -67,7 +67,7 @@ OR
 <!--
 
 <!-- BLOG-POST-LIST:START -->
-- 
+- <a href="https://roopadm.github.io/DRoopa.github.io/" target="blank">My Personal Projects</a>
 <!-- BLOG-POST-LIST:END -->
  
 <h3 align="left">Connect with me 🔗</h3>
