@@ -22,7 +22,7 @@ OR
 
 
 
-- 🔭 I’m currently working on SQL, Python, Tableau & Statistics
+- 🔭 I’m currently working on SQL, Python, Tableau, Power BI & Statistics
 
 - 🛩️ Exploring Python data visualization libraries
 
