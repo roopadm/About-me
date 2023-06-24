@@ -22,13 +22,13 @@ OR
 
 
 
-- 🔭 I’m currently working on SQL, Python, Tableau, Power BI & Statistics
+- 🔭 I’m currently working on SQL, Python, Tableau, Power BI, Advanced Excel & Statistics
 
 - 🛩️ Exploring Python data visualization libraries
 
 - 📝 Sometimes I write articles on [Medium](https://medium.com/@mrankitgupta)
 
-- 💬 Ask me about ``` var topics = [ "Python", "SQL", "Statistics", "Tableau", "R" ] ```
+- 💬 Ask me about ``` var topics = [ "Python", "SQL", "Statistics", Power BI,"Tableau", "R","Spreadsheets" ] ```
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/roopa-d/) 
 
