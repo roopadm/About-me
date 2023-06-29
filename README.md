@@ -48,9 +48,6 @@ OR
 
 <code>[Data Visualition with Tableau : U.S. Superstore Sales Performance](https://github.com/roopadm/Superstore-Sales-performace-Tableau)</code>  👨‍💻 
 
-<code>[Sales Insights - Data Analysis using Tableau & SQL](https://github.com/mrankitgupta/Sales-Insights-Data-Analysis-using-Tableau-and-SQL)</code> 📊
-
-
 <h3 align="left">My Certifications 📜 🎓 ✔️</h3>
 
 - [SQL(Basic)](https://www.hackerrank.com/certificates/baaffabb8c4e) Certificate - by Hackerank
