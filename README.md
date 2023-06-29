@@ -64,7 +64,7 @@ OR
 <!-- BLOG-POST-LIST:START -->
 - <a href="https://roopadm.github.io/DRoopa.github.io/" target="blank">My Personal Projects</a>
 <!-- BLOG-POST-LIST:END -->
- 
+ <!--
 <h3 align="left">Connect with me 🔗</h3>
 <p align="left">
 <a href="https://bio.link/AnkitGupta" target="blank"><img align="center" src="https://github.com/mrankitgupta/mrankitgupta/blob/main/images/Website.svg" alt="AnkitGupta" height="30" width="40" /></a>
@@ -74,7 +74,7 @@ OR
 <a href="https://www.hackerrank.com/MrAnkitGupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="MrAnkitGupta" height="30" width="40" /></a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrankitgupta&label=Profile%20views&color=0e75b6&style=flat" alt="mrankitgupta" /> </p> -->
 
 <h3 align="left">Languages and Tools 🛠️ </h3>
 <p align="left"> 
